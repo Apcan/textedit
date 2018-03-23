@@ -1,0 +1,19 @@
+{
+  "name": "textinsert",
+  "version": "1.0.0",
+  "description": "textinsert node 文本 插入行  插入文本 模板  模板插入",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apcan/textinsert.git"
+  },
+  "author": "apcan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apcan/textinsert/issues"
+  },
+  "homepage": "https://github.com/Apcan/textinsert#readme"
+}
