@@ -1,6 +1,6 @@
 {
   "name": "textinsert",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "textinsert node 文本 插入行  插入文本 模板  模板插入",
   "main": "index.js",
   "scripts": {
